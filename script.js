@@ -200,7 +200,7 @@ if (form10) {
     data.append("Подтверждение", agree ? "Подтвердил" : "Не подтвердил");
     data.append("_captcha", "false");
 
-    fetch("https://formsubmit.co/ajax/dmmitrijslepnev345@mail.ru", {
+    fetch("https://formsubmit.co/ajax/anastasiya4856@mail.ru", {
       method: "POST",
       body: data
     })
